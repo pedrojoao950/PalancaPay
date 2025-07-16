@@ -37,10 +37,10 @@ PalancaPay is an open-source initiative based on GNU Taler that provides secure,
 
 ## Contact
 
-- Lead: [Your Name]
-- Institution: ISPCS – Angola
-- Email: your.email@example.com
-- Website: [placeholder for GitHub Pages or institutional site]
+- Lead: Pedro António Joaquim João
+- Institution: Higher Polytechnic Institute of Cuanza Sul (ISPCS) – Angola
+- Email: pedro.joao@ispcs.ao
+- Website: https://ispcs.ao
 
 ---
 
